@@ -1,5 +1,5 @@
 <HEAD>
  <title>Welcome to github</title>
  <colour> red </colour>
- <fontsize> normal </fontsize>
+ <fontsize> bold </fontsize>
 </HEAD> 
